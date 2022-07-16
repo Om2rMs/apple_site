@@ -2,7 +2,7 @@
   "name": "countinue-mapping",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://om2rms.github.io/Apple-site/",
+  "homepage": "https://om2rms.github.io/apple_site/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
